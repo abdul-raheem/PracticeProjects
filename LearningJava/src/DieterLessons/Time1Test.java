@@ -48,9 +48,9 @@ public class Time1Test {
 		
 		Date birth = new Date(7,24,1949);
 		System.out.println(birth);
-		Time1 t1 = new Time1();
+		Time1 t1 = new Time1(12,2,2);
 		
-		System.out.println(t1.Time1("testing"));
+		System.out.print(t1);
 		
 		
 		
