@@ -1,7 +1,7 @@
 package DieterLessons;
 
 public class Time1 {
-	public int hour = 5;
+	public  int hour = 5;
 	public int minute = 5;
 	public int second = 5;
 	
